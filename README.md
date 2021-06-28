@@ -51,3 +51,7 @@ The **csv** files can be found [here](https://github.com/EsratMaria/Improved-Mov
 - KNN (K- Nearest Neighbor)
 - Cosine Similarity
 - Popularity (most rated) based recommender
+
+### References
+
+[1](https://www.kaggle.com/midouazerty/restaurant-recommendation-system-using-ml) & [2]()
