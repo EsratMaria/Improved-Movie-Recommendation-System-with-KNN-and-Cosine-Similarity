@@ -16,3 +16,23 @@ Recommendation systems are widely used to recommend movies, items, restaurants, 
 
 
 **In this repository,** I tried making a movie recommendation system that suggests relevant movies according to a user's interest and previously rated movies.
+
+### Dataset
+
+I am using the [**MovieLens**](https://www.kaggle.com/ayushimishra2809/movielens-dataset) dataset. 
+The data consists of **105339** ratings applied over **10329** movies. 
+
+The **movies.csv** dataset contains three columns:
+
+    movieId: the ID of the movie
+    title: movies title
+    genres: movies genres
+
+The **ratings.csv** dataset contains four columns:
+
+    userId: the ID of the user who rated the movie.
+    movieId: the ID of the movie
+    ratings: ratings given by each user (from 0 to 5)
+    Timstamp: The time the movie was rated.
+    
+The **csv** files can be found [here](https://github.com/EsratMaria/Improved-Movie-Recommendation-System-with-KNN-and-Cosine-Similarity/tree/master/data).
