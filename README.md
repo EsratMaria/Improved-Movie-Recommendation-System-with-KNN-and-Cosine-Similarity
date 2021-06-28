@@ -54,4 +54,4 @@ The **csv** files can be found [here](https://github.com/EsratMaria/Improved-Mov
 
 ### References
 
-[1](https://www.kaggle.com/midouazerty/restaurant-recommendation-system-using-ml) & [2](https://www.kaggle.com/ayushimishra2809/movie-recommendation-system)
+- [1](https://www.kaggle.com/midouazerty/restaurant-recommendation-system-using-ml) & [2](https://www.kaggle.com/ayushimishra2809/movie-recommendation-system)
