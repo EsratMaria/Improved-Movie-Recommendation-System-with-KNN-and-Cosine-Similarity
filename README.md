@@ -16,6 +16,6 @@ It keeps a track of view counts for each movie/video and then lists movies based
 
 This type of recommendation systems, takes in a movie that a user currently likes as input. Then it analyzes the contents of the movie to find out other movies which have similar content. Then it ranks similar movies according to their similarity scores and recommends the most relevant movies to the user.
 
-    Collaborative filtering
+- Collaborative filtering
 
 In other words, the recommendations get filtered based on the collaboration between similar user’s preferences.
