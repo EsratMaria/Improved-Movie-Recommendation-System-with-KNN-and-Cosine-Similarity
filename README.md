@@ -46,3 +46,8 @@ The **csv** files can be found [here](https://github.com/EsratMaria/Improved-Mov
 - Data Cleaning
 - Data Exploration and fetching detailed information, details are [here](https://github.com/EsratMaria/Improved-Movie-Recommendation-System-with-KNN-and-Cosine-Similarity/blob/master/User%20Rating%20Prediction%20%26%20Data%20Extraction.ipynb).
 
+### Recommendation Stategies
+
+- KNN (K- Nearest Neighbor)
+- Cosine Similarity
+- Popularity (most rated) based recommender
