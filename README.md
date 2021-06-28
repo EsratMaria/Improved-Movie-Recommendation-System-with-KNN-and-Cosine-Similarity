@@ -36,3 +36,12 @@ The **ratings.csv** dataset contains four columns:
     Timstamp: The time the movie was rated.
     
 The **csv** files can be found [here](https://github.com/EsratMaria/Improved-Movie-Recommendation-System-with-KNN-and-Cosine-Similarity/tree/master/data).
+
+### Approaches Tried
+
+- Deleting Unnecessary Columns
+- Remove the NaN values from the dataset
+- Combining the files and making a pivot table
+- Data Transformations
+- Data Cleaning
+
