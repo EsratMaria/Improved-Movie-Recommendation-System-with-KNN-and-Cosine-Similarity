@@ -25,7 +25,7 @@ The data consists of **105339** ratings applied over **10329** movies.
 The **movies.csv** dataset contains three columns:
 
     movieId: the ID of the movie
-    title: movies title
+    title: Movie title
     genres: movies genres
 
 The **ratings.csv** dataset contains four columns:
