@@ -35,7 +35,7 @@ The **ratings.csv** dataset contains four columns:
     ratings: ratings given by each user (from 0 to 5)
     Timestamp: The time the movie was rated.
     
-The **csv** files can be found [here](https://github.com/EsratMaria/Improved-Movie-Recommendation-System-with-KNN-and-Cosine-Similarity/tree/master/data).
+The **CSV** files can be found [here](https://github.com/EsratMaria/Improved-Movie-Recommendation-System-with-KNN-and-Cosine-Similarity/tree/master/data).
 
 ### Approaches Tried
 
