@@ -4,7 +4,7 @@ Recommendation systems improve the quality of search results and provide element
 Recommendation systems are widely used to recommend movies, items, restaurants, places to visit, items to buy, etc.
 
 ## Types of recommendation System
- 
+
   
 - **Popularity Based:** It keeps track of view counts for each movie/video and then lists movies based on views in descending order.
 
