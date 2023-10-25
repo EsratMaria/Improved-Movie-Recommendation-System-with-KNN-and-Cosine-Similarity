@@ -42,7 +42,7 @@ The **CSV** files can be found [here](https://github.com/EsratMaria/Improved-Mov
 - Deleting Unnecessary Columns
 - Remove the NaN values from the dataset
 - Combining the files and making a pivot table
-- Data Transformations 
+- Data Transformations
 - Data Cleaning
 - Data Exploration and fetching detailed information, details are [here](https://github.com/EsratMaria/Improved-Movie-Recommendation-System-with-KNN-and-Cosine-Similarity/blob/master/User%20Rating%20Prediction%20%26%20Data%20Extraction.ipynb).
 
